@@ -138,4 +138,4 @@ The only modifications we need to make to this file are to the parameters that h
 
 Fill in the values of these parameters with the information for the database that you created. It should look like this:
 
-![alt text](https://github.com/anjanpaul/Lamp-stack/blob/main/output/Screenshot%202022-02-03%20at%209.45.17%20PM.png)
+![alt text](https://github.com/anjanpaul/Wordpress-doc/blob/main/output/Screenshot%202022-02-07%20at%204.09.25%20PM.png)
