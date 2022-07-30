@@ -107,6 +107,9 @@ php -v
 Step 4 insatll WORDPRESS
 
 ```
+#!/bin/bash
+amazon-linux-extras install -y lamp-mariadb10.2-php7.2 php7.2
+yum install httpd -y
 cd /var/www/html
 wget https://wordpress.org/latest.tar.gz
 tar -xzf latest.tar.gz
@@ -121,7 +124,6 @@ find /var/www -type f -exec sudo chmod 0664 {} \;
 
 service httpd start
 systemctl restart httpd
-
 ```
 
 ```
